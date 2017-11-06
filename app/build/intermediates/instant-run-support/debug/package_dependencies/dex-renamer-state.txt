@@ -1,0 +1,7 @@
+#Sat Nov 04 23:44:24 MDT 2017
+base.0=C\:\\Users\\fmchora\\Google Drive\\Android_Apps_2017\\maps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\fmchora\\Google Drive\\Android_Apps_2017\\maps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes2.dex
+base.1=C\:\\Users\\fmchora\\Google Drive\\Android_Apps_2017\\maps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+file.0=C\:\\Users\\fmchora\\Google Drive\\Android_Apps_2017\\maps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex
